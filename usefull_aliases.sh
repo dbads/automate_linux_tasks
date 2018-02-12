@@ -7,7 +7,6 @@ alias update="apt update"
 #how to use?
 # just run update in terminal and it will be replaced by apt update, which starts updating changes
 
-alias update="apt update"
 alias upgrade="apt dist-upgrade"
 alias remove="apt autoremove"
 alias insatll="apt install"
