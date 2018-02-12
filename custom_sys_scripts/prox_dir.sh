@@ -1,15 +1,13 @@
 #get present working directory
 cur_dir=`pwd`
-# echo $cur_dir
-#change dir to where main.sh is
+#echo $cur_dir
+
+#chage dir to ProxyMan-master, (you can navigate to any dir)
 cd /media/deepak/Entreprise/software/proxyman/ProxyMan-master/
+
+#perform some stuff (or whatever you need to do)
 /media/deepak/Entreprise/software/proxyman/ProxyMan-master/main.sh
-cd $cur_dir
 
 #change dir back to where were after configuring proxy
-# echo $curdir
-
-# if [ $result == 0 ] then
-# 	cd $cur_dir
-# fi
+cd $curdir
 
