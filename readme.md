@@ -8,9 +8,9 @@ Some scripts to automate some very oftenly used tasks on Linux
 
 Which script does what ??
 
-custom_sys_scripts
-prox_dir.sh 		= an example of changing dir doing some stuff and coming back to current dir
-usefull_aliases.sh  = Shows a hack on aliases for smooth navigation through different directories
+##custom_sys_scripts
+1.prox_dir.sh 		= an example of changing dir doing some stuff and coming back to current dir
+2.usefull_aliases.sh  = Shows a hack on aliases for smooth navigation through different directories
 
 
 
