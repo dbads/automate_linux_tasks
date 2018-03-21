@@ -11,3 +11,5 @@ cd /media/deepak/Entreprise/software/proxyman/ProxyMan-master/
 #change dir back to where were after configuring proxy
 cd $curdir
 
+
+
